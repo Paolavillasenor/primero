@@ -1,5 +1,5 @@
 # Descripción
-### Primer repositorio para control de versiones
+Primer repositorio para control de versiones
 # Comandos
 - ls
 - history
